@@ -24,7 +24,7 @@
       .attr('height', 500)
       .attr('fill', '#ffec73');
 
-    d3.csv('../data/SeasonsSimpsonsData.csv')
+    d3.csv('data/SeasonsSimpsonsData.csv')
       .then((csvData) => makeScatterPlot(csvData));
   };
 
