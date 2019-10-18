@@ -3,8 +3,7 @@ This is a chart made in D3 as a midterm assignment for my Information Visualizat
 
 The assignment was to imitate this chart in D3, which was originally built with Tableau: https://public.tableau.com/profile/david.newman#!/vizhome/shared/NSJ8WB8H7
 
-View the replicated version I built using D3 here:
-https://kylewistrand.github.io/d3Viz2/
+**View the replicated version I built using D3 here: https://kylewistrand.github.io/d3Viz2/**
 
 I acquired the data by downloading the Tableau file and saving the CSV file that was used in this viz separately. I did do a bit of cleaning on the CSV to remove some strange characters that were in there for some reason.
 
